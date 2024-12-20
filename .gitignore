@@ -1,0 +1,19 @@
+# 日志文件
+*.log
+api-proxy.log
+
+# 配置文件（包含敏感信息）
+config/config.json
+
+# Go 相关
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# IDE 相关
+.idea/
+.vscode/
